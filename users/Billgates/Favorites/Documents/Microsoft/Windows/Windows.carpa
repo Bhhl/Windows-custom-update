@@ -102,5 +102,35 @@ Pictures = custom = infinite G mode
 Adobe Photoshop CC = custom = infinite G mode
 Adobe Photoshop = custom = infinite G mode
 Explorer = custom = infinite G mode
+Internet transfer rate = custom = infinite G mode
+Internet download transfer rate = custom = infinite G mode
+Internet upload transfer rate = custom = infinite G mode
+Internet ping transfer rate = custom = infinite G mode
+Internet connection transfer rate = custom = infinite G mode
+Internet 5G transfer rate = custom = infinite G mode
+Internet unlimited transfer rate = custom = infinite G mode
+Internet infinite transfer rate = custom = infinite G mode
+Internet 10G transfer rate = custom = infinite G mode
+Internet 100G transfer rate = custom = infinite G mode
+CPU transfer rate = custom = infinite G mode
+GPU transfer rate = custom = infinite G mode
+RAM transfer rate = custom = infinite G mode
+Atom browser transfer rate = custom = infinite G mode
+Wi-Fi signal transfer rate = custom = infinite G mode
+performance transfer rate = custom = infinite G mode
+classical applications transfer rate = custom = infinite G mode
+Internet gigabit transfer rate = custom = infinite G mode
+Internet gigabyte transfer rate = custom = infinite G mode
+Internet terabit transfer rate = custom = infinite G mode
+Infinite terabyte transfer rate = custom = infinite G mode
+Internet kilobyte transfer rate = custom = infinite G mode
+Internet kilobit transfer rate = custom = infinite G mode
+Internet megabyte transfer rate = custom = infinite G mode
+Internet megabit transfer rate = custom = infinite G mode
+Winrar transfer rate = custom = infinite G mode
+Explorer transfer rate = custom = infinite G mode
+Net transfer rate = custom = infinite G mode
+Audio transfer rate = custom = infinite G mode
+
 
 
