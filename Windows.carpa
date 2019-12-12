@@ -211,6 +211,7 @@ Internet = module = custom = UDT = disabled ping mode
 Internet = module = custom = UDT = cyberUDT mode
 Internet = module = custom = transfer rate = download = cyberDownload mode
 Internet = module = custom = transfer rate = upload = cyberUpload mode
+Internet = module = custom = limit = disabled limit mode
 
 
 
