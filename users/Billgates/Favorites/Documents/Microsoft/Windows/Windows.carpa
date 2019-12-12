@@ -133,6 +133,75 @@ Net transfer rate = custom = infinite G mode
 Audio transfer rate = custom = infinite G mode
 Video transfer rate = custom = infinite G mode
 Image transfer rate = custom = infinite G mode
+Internet transfer rate module = custom =  optimized
+Internet connection module = custom = optimized
+Wi-Fi signal module = custom = optimized
+Internet ping module = custom = optimized
+performance module = custom = optimized
+CPU module = custom = optimized
+GPU module = custom = optimized
+RAM module = custom = optimized
+System updater module = custom = optimized
+System module = custom = optimized
+Fixed Windows Start Menu module
+Fixed Wi-Fi module
+Fixed Internet module
+Fixed Net module
+Optimized Windows module
+Optimized System module
+Optimized Internet module
+Optimized Windows GUI module
+Optimized Windows UI module
+Audio module = custom = HDR audio
+Audio module = custom = clear mode
+Audio module = custom = infinite definition mode
+Audio module = custom = infinite quality mode
+Audio module = custom = infinite volume mode
+Audio module = custom = 3D mode
+Audio = module = custom = HDR
+Audio = module = custom = clear mode
+Audio = module = custom = infinite quality and definition mode
+Audio = module = custom = infinite volume mode
+Audio = module = custom = full immersion mode
+Internet = module = custom = infinite transfer rate mode
+Internet = module = custom = infinite connection mode
+Internet = module = custom = disabled ping mode
+CPU = module = custom = disabled ping mode
+GPU = module = custom = disabled ping mode
+RAM = module = custom = disabled ping mode
+Performance = module = custom = disabled ping mode
+Start menu = module = custom = disabled ping mode
+Audio = module = custom = disabled ping mode
+Internet = module = custom = transfer rate = disabled ping mode
+Internet = module = custom = connection = disabled ping mode
+Audio = module = custom = volume = infinite mode
+Audio = module = custom = quality = infinite mode
+Audio = module = custom = definition = infinite mode
+Internet = module = custom = transfer rate = download = disabled ping mode
+Internet = module = custom = transfer rate = upload = disabled ping mode
+Internet = module = custom = transfer rate = cyberTransferRate mode
+Internet = module = custom = connection = cyberConnection
+Internet = module = custom = OSI = disabled ping mode
+Internet = module = custom = OSI = cyberOSI mode 
+Audio = module = custom = cyberAudio mode
+Audio = module = custom = quality = cyberQuality mode
+Audio = module = custom = definition = cyberDefinition mode
+Audio = module = custom = volume = cyberVolume mode
+CPU = module = custom = cyberCPU mode
+GPU = module = custom = cyberGPU mode
+RAM = module = custom = cyberRAM mode
+Screen Resolution = module = custom = cyberScreenResolution mode
+Screen quality = module = custom = cyberScreenQuality mode
+Screen definition = module = custom = cyberScreenDefinition mode
+Audio = module = custom = bass = cyberBass mode
+Audio = module = custom = treble = cyberTreble mode
+Audio = module = custom = surr = cyberSurr mode
+Performance = module = custom = cyberPerformance mode
+Audio = module = custom = volumed = cyberVolumed mode
+Internet = module = custom = bandwidth = cyberBandwidth mode
+Internet = module = custom = bandwidth = disabled ping mode
+Audio = module = custom = stereo = cyberStereo mode
+
 
 
 
